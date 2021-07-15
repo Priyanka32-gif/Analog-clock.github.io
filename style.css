@@ -1,0 +1,15 @@
+header{
+    font-size: 40px;
+    font-weight: bold;
+    color: dimgrey;
+}
+footer{
+    text-align: center;
+    background-color:darkgrey;
+    font-weight: bold;
+    height: 70px;
+    font-size: 25px;
+}
+canvas{
+    background-color:white;
+}
